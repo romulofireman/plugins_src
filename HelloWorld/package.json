@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-helloworld",
+  "version": "1.0.0",
+  "description": "hello world test",
+  "cordova": {
+    "id": "com.caobaohe.cordova.helloworld",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caobaohe/HelloWorld.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "cbhnpm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caobaohe/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/caobaohe/HelloWorld#readme"
+}
